@@ -354,6 +354,14 @@ footer {
   display: block;
   }
 
+  h1 {
+    font-size: 9vw;
+  }
+
+  .seta {
+    width: 7vw;
+  }
+
   .secao-one {
     flex-direction: column-reverse;
   }
